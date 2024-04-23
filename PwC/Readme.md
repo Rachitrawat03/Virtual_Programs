@@ -32,7 +32,7 @@ The repository includes:
 ## How to Use:
 1. **Task Two Dashboard**: Open the Power BI dashboard file for Task Two to explore visualizations of call center trends and key performance indicators.
 2. **Task Three Dashboard**: Open the Power BI dashboard file for Task Three to explore customer retention insights and demographics.
-3. **Task Four Documentation**: Review the documentation for Task Four to understand the analysis of diversity and inclusion metrics.
+3. **Task Four Dashboard**: Open the Power BI dashboard file for Task Four to understand the analysis of diversity and inclusion metrics.
 
 ## Conclusion:
 The PwC Forage Power BI Project provided valuable hands-on experience in digital transformation, data visualization, and analyzing key business metrics. Through completing these tasks, participants gained practical skills and insights essential for success in today's digital age.
