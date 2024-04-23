@@ -25,9 +25,7 @@ This repository contains the deliverables for the PwC Forage Power BI Project, c
 ## Deliverables:
 
 The repository includes:
-- Power BI dashboard files for Task Two and Task Three.
-- Documentation for Task Four, including visualizations and analysis.
-- Self-reflection responses for Task One.
+- Power BI dashboard files for Task Two, Task Three and Task Four.
 
 ## How to Use:
 1. **Task Two Dashboard**: Open the Power BI dashboard file for Task Two to explore visualizations of call center trends and key performance indicators.
